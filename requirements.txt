@@ -1,0 +1,8 @@
+cryptography>=41.0.0
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+pytest>=8.0.0
+
+# Note: tkinter is included with Python standard library on Windows/macOS.
+# On Linux, install python3-tk package if needed (e.g., apt install python3-tk)
+
